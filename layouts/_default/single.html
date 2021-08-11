@@ -1,0 +1,48 @@
+{{ define "main" -}}
+<style>
+li.tags {
+  display:inline;
+  padding: 0px 10px;
+  margin: 3px;
+  text-align: center;
+  border: solid #000;
+  background-color: white;
+  border-radius: 50px 50px 50px 50px;
+}
+</style>
+<div class="post">
+  <h1>{{ .Title }}</h1>
+  <time datetime={{ .Date.Format "2006-01-02T15:04:05Z0700" }} class="post-date">{{ .Date.Format "15:04 Mon, Jan 2, 2006" }}</time>
+  {{ .Content }}
+  
+	{{ with .Params.tags }}
+	<ul id="tags">
+		{{ range . }}
+		  <li class="tags"> <a href="{{ "tags" | absURL }}/{{ . | urlize }}">{{ . }}</a> </li>
+		{{ end }}
+	</ul>
+	{{ end }}
+
+	{{ with .Params.topics }}
+	<ul id="topics">
+		{{ range . }}
+		  <li class="tags"> <a href="{{ "topics" | absURL }}/{{ . | urlize }}">{{ . }}</a> </li>
+		{{ end }}
+	</ul>
+	{{ end }}
+
+	{{ with .Params.categories }}
+	<ul id="categories">
+		{{ range . }}
+		  <li class="tags"><a href="{{ "categories" | absURL}}/{{ . | urlize }}">{{ . }}</a> </li>
+		{{ end }}
+	</ul>
+	{{ end }}
+  
+</div>
+
+{{ if .Site.DisqusShortname -}}
+<h2>Comments</h2>
+{{ template "_internal/disqus.html" . }}
+{{- end }}
+{{- end }}
