@@ -1,8 +1,9 @@
-baseURL = "https://udchen19.github.io/"
+baseURL = "https://udchen.tw/"
 languageCode = "zh-TW"
 title = "UD隨筆"
 theme = "hyde"
 disqusShortname = "udchenme"
+enableemoji = true
 [taxonomies]
   tag = "tags"
   series = "series"
