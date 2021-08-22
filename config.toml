@@ -4,6 +4,7 @@ title = "UD隨筆"
 theme = "hyde"
 disqusShortname = "udchenme"
 enableemoji = true
+hasCJKLanguage = true
 [taxonomies]
   tag = "tags"
   series = "series"
