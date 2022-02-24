@@ -19,7 +19,7 @@ googleAnalytics = "G-NJ1YCLGFGV"
 [params]
   themeColor = "theme-base-ud"
   layoutReverse = true
-  description = "Thoughts.<br>Notes.<br>Anything whatsoever."
+  description = "Thoughts. Notes. Anything whatsoever."
 [markup]
 	defaultMarkdownHandler = "blackfriday"
 [blackfriday]
