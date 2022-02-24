@@ -10,7 +10,7 @@ Baseball / F1 Enthusiast.
 ### Contacts
 
 Personal Purposes: ueidarchen [at] gmail [dot] com
-College/Academic Related: udchen [dot] cs08 [at] nctu [dot] edu [dot] tw
+College/Academic Related: udchen [dot] cs08 [at] nycu [dot] edu [dot] tw
 
 ### Education
 

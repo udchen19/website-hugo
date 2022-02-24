@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="head.jpg" width="40%"/>
+  <img src="sig.png" width="40%"/>
 </p>
 
 <h1 align = "center">udchen's Blog</h1>
