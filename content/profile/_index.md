@@ -7,12 +7,20 @@ Programmer.
 Triathlon Challenger.
 Baseball / F1 Enthusiast.
 
-### Contacts
+## Contacts
 
 Personal Purposes: ueidarchen [at] gmail [dot] com
 College/Academic Related: udchen [dot] cs08 [at] nycu [dot] edu [dot] tw
 
-### Education
+## CV
+
+<object data="CV.pdf" type="application/pdf" width="100%" height="700px">
+    <embed src="CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="CV.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+## Education
 
 * **Bachelor's Student, [Department of Computer Science,
   National Yang Ming Chiao Tung University](https://www.cs.nycu.edu.tw/), Taiwan**
