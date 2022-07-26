@@ -20,9 +20,3 @@ googleAnalytics = "G-NJ1YCLGFGV"
   themeColor = "theme-base-ud"
   layoutReverse = true
   description = "Thoughts. Notes. Anything whatsoever."
-[markup]
-	defaultMarkdownHandler = "blackfriday"
-[blackfriday]
-	extensions = ["hardLineBreak"]
-	[blackfriday.renderer]
-		unsafe = true
