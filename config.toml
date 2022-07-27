@@ -20,3 +20,5 @@ googleAnalytics = "G-NJ1YCLGFGV"
   themeColor = "theme-base-ud"
   layoutReverse = true
   description = "Thoughts. Notes. Anything whatsoever."
+[markup.goldmark.renderer]
+  unsafe = true
