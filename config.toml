@@ -5,7 +5,7 @@ theme = "hyde"
 disqusShortname = "udchenme"
 enableemoji = true
 hasCJKLanguage = true
-googleAnalytics = "G-NJ1YCLGFGV"
+# googleAnalytics = "G-NJ1YCLGFGV"
 [taxonomies]
   tag = "tags"
   series = "series"
@@ -20,5 +20,9 @@ googleAnalytics = "G-NJ1YCLGFGV"
   themeColor = "theme-base-ud"
   layoutReverse = true
   description = "Thoughts. Notes. Anything whatsoever."
+  mainSections = ['posts', 'blog']
+[markup.goldmark.extensions]
+  strikethrough = true
 [markup.goldmark.renderer]
   unsafe = true
+  hardWraps = true
