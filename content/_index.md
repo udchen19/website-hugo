@@ -12,4 +12,5 @@
 ## My Schedule
 
 <script type="text/javascript" src="https://stylemygcal.com/widget.js"></script>
-<div class="smgc-calendar-placeholder" id="smgc-cal-x3z8VmASsJX8ZvOTAJLl" align="center"></div>
+
+<div class="smgc-calendar-placeholder" id="smgc-cal-FDafOiwhAH5486J05lFZ" align="center"></div>

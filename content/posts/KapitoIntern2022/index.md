@@ -1,13 +1,13 @@
 ---
 title: "Kapito Inc. Internship, Summer 2022"
-date: 2022-09-17T20:00:00+08:00
+date: 2022-09-24T20:30:00+08:00
 draft: false
-type: notpublished
+type: posts
 tags: ["intern"]
 categories: ["work"]
 ---
 
-&emsp;&emsp;這篇有點久了，但下工至今趕了一波實驗室paper後，總算是可以在開學地獄前靜下來寫點東西。這是我第一次實習，無論是有些學到看到的東西想做個紀錄，還是之後有人來問的時候可以少動點嘴巴<strike>，抑或是我欠mentor一篇心得</strike>，把一些東西打下來感覺不是壞事。
+&emsp;&emsp;這篇有點久了，但下工至今趕了一波實驗室paper後，總算是可以在開學地獄前靜下來寫點東西。這是我第一次實習，無論是有些學到看到的東西想做個紀錄，還是之後有人來問的時候可以直接丟link<strike>，抑或是我欠mentor一篇心得</strike>，把一些東西打下來感覺不是壞事。
 
 ## Company Info & Interview
 
@@ -130,8 +130,9 @@ categories: ["work"]
    自己有一週運動五次的習慣，但上班朝九晚六，回到宿舍就已經很累了，就算真要運動也會拖拖拉拉，晚睡又會影響隔天的作息。後來發現7.多起來運動再去上班還不錯，有維持一定的體能訓練，後面要上班除了是個時間上的deadline，也會避免自己過度操勞(尤其考慮還要騎腳踏車去公司的話)，自然就相對不容易受傷。下工後這兩週比較晚睡，希望之後可以調整回來。
 
 3. Startup v.s. Big Companies
-   我沒能到大公司實習很大的原因是太晚準備CV，所以我就說服自己去新創公司人少，自己發揮的空間相對多，而事實最後也如同我的想像。在merge PR時是真的不敢按下去的，因為你知道一旦merge就會部署並實際運作。當我把project code整理好最後push到雲端時，也在數字上看到成果：2000+行的Python(含註解)，還有200+行的Markdown (documentation)。雖然程式碼行數真的不代表什麼，但我很清楚這個暑假磨練了多少。雖然startup的實習寫在CV上可能是間名不見經傳的公司，但累積的經驗我覺得比履歷上那幾行字重要得多。
-   ![](static/commit.jpg)
+   我沒能到大公司實習很大的原因是太晚準備CV，所以我就說服自己去新創公司人少，自己發揮的空間相對多，而事實最後也如同我的想像。在merge PR時是真的不敢按下去的，因為你知道一旦merge就會部署並實際運作。當我把project code整理好最後push到雲端時，也在數字上看到成果：2000+行的Python(含註解)，還有200+行的Markdown (documentation)。雖然程式碼行數真的不代表什麼，但我很清楚這個暑假磨練了多少。雖然startup的實習寫在CV上可能是間名不見經傳的公司，但累積的經驗就我個人而言比履歷上那幾行字重要得多。
+   
+   > I probably shouldn't be using `git` like this, bUt AnYwAy![](static/commit.jpg)
 
 4. 找到CS中有興趣然後可以發揮的領域
    雖然看到大多數Intern都招Frontend跟Backend，但還蠻慶幸那時候沒有強迫自己選一個，因為自己還是對觀察資料、想點數學，然後利用這些finding做些什麼比較感興趣；所以大方向上來說，還是ML跟Data Science。
@@ -222,7 +223,7 @@ categories: ["work"]
 
 <img src="https://pbs.twimg.com/media/EzSBP_tUUAQbtOz.png" title="" alt="" width="400">
 
-所以過去一年自己並沒有任何長進，棒。
+結論：過去一年自己並沒有任何長進，棒。
 
 ### 其他小事
 

@@ -5,7 +5,6 @@ theme = "hyde"
 disqusShortname = "udchenme"
 enableemoji = true
 hasCJKLanguage = true
-# googleAnalytics = "G-NJ1YCLGFGV"
 [taxonomies]
   tag = "tags"
   series = "series"

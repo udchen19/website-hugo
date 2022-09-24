@@ -1,9 +1,11 @@
 ---
+
 draft: false
 ---
+
 # 陳威達 Uei-Dar Chen
 
-Programmer.
+Programming Psychologist.
 Triathlon Challenger.
 Baseball / F1 Enthusiast.
 
@@ -11,6 +13,7 @@ Baseball / F1 Enthusiast.
 
 Personal Purposes: ueidarchen [at] gmail [dot] com
 College/Academic Related: udchen [dot] cs08 [at] nycu [dot] edu [dot] tw
+[Facebook](https://facebook.com/dchencgps)
 
 ## CV
 
@@ -24,7 +27,7 @@ College/Academic Related: udchen [dot] cs08 [at] nycu [dot] edu [dot] tw
 
 * **Bachelor's Student, [Department of Computer Science,
   National Yang Ming Chiao Tung University](https://www.cs.nycu.edu.tw/), Taiwan**
-  *Sep 2019 ~ Jun 2023*
+  *Sep 2019 ~ Jan 2024 (scheduled)*
 
 * 1st Class of Computer Science,
   [The Affiliated Senior High School of National Taiwan Normal University](https://www.hs.ntnu.edu.tw/),
